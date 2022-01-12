@@ -1,2 +1,2 @@
 # BeatSaber Song Backup Tool
- Tool to backup your Songs in BeatSaber
+With this Tool you can backup your downloaded BeatSaber Songs and more.
